@@ -5,7 +5,3 @@
 * broccoli
 * oilve oil
 * salt
-
-
-
-
