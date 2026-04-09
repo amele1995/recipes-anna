@@ -5,5 +5,4 @@
 * salt (2)
 ## Instructions
 
-
-Cut avocado with a knife -- advice from Susan
+* use a spoon to break up the avocado in a bowl
